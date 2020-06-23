@@ -8,6 +8,17 @@ Festival
 # D4 - 6.25
 Festival 
 # D3 - 6.24
+## Primary：
+- Get Up : 7:30 a.m.
+- Sleep : 12:00 a.m.
+- XGBoost
+- Paper : *'Coverage Optimization ...'* ---> Multi-Drone coverage framework
+## Secondary:
+- XGBoost
+## Minimum:
+NONE
+## Circut Breaker:
+NONE
 # D2 - 6.23
 ## Primary：
 - Get Up : 7:00 a.m.
