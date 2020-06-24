@@ -8,6 +8,21 @@
 # D4 - 6.25
 ### Festival 
 # D3 - 6.24
+
+## Primary：
+
+- Get Up : 7:30 am.
+- Sleep : 12:00 am.
+- Tofel Dictionary：3 sections
+- Tofel Reading: 1 section  
+
+## Secondary:
+
+- Get Up : 8:00 am.
+- Sleep : 1:00 am.
+- Tofel Dictionary：2 sections
+- Tofel Reading: 0section  
+
 # D2 - 6.23
 
 ## Primary：
