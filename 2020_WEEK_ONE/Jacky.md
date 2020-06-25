@@ -5,6 +5,20 @@
 ### Festival
 # D5 - 6.26
 ### Festival
+
+## Primary：
+
+- Get Up : 7:30 am.
+- Sleep : 12:00 am.
+- DS: Homework
+- Tofel Reading: 1 section  
+
+## Secondary:
+
+- Get Up : 8:00 am.
+- Sleep : 1:00 am.
+- DS: Homework
+
 # D4 - 6.25
 ### Festival 
 
