@@ -5,6 +5,17 @@
 Festival
 # D5 - 6.26
 Festival
+## Primary：
+- Get Up : 7:30 a.m.
+- Sleep : 12:00 a.m.
+- Review : *Progress in Computer Science* 
+- Paper : *'Coverage Optimization ...'* ---> 5.1 OnDrone
+## Secondary:
+- Paper : *'Coverage Optimization ...'* ---> 5.1 OnDrone
+## Minimum:
+NONE
+## Circut Breaker:
+NONE
 # D4 - 6.25
 Festival 
 # D3 - 6.24
