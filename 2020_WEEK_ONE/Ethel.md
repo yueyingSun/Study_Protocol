@@ -3,6 +3,17 @@
 # D7 - 6.28
 # D6 - 6.27 
 Festival
+## Primary：
+- Get Up : 7:30 a.m.
+- Sleep : 12:00 a.m.
+- Review : *Progress in Computer Science* 
+- Paper : *'Coverage Optimization ...'* ---> 5.2 ~ 5.3
+## Secondary:
+- Paper : *'Coverage Optimization ...'* ---> 5.2
+## Minimum:
+NONE
+## Circut Breaker:
+NONE
 # D5 - 6.26
 Festival
 ## Primary：
