@@ -1,6 +1,16 @@
 # **Supervisor : Jacky**
 
 # D7 - 6.28
+## Primary：
+- Get Up : 7:30 a.m.
+- Sleep : 12:00 a.m.
+- Review : *Progress in Computer Science* 
+## Secondary:
+NONE
+## Minimum:
+NONE
+## Circut Breaker:
+NONE
 # D6 - 6.27 
 Festival
 ## Primary：
