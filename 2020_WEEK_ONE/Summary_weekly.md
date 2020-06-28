@@ -15,6 +15,6 @@ Circuit Breaker||||/|
 Event/Date|6.22|6.23|6.24|6.25|6.26|6.27|6.28
 --:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 Primary|🟢|🟢|🟢|🟢|
-Secondary|||||🟢
+Secondary|||||🟢|🟢
 Minimum|
 Circuit Breaker|
