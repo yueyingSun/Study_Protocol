@@ -4,7 +4,7 @@
 # D6 - 7.4 
 # D5 - 7.3
 # D4 - 7.2
-- Get Up : 7:30 a.m.
+- Get Up : 7:30 a.m
 - Sleep : 12:00 a.m.
 - Review : IR ---> ch1 ~ ch7
 - Exercise : Push-Up * 10 && Squats * 50
