@@ -8,8 +8,10 @@
 - Sleep : 12:00 a.m.
 - Final : *IR* ---> 8:00 ~ 10:00
 - Paper : *Unmanned Aerial Vehicle With Underlaid Device-to-Device Communications: Performance and Tradeoffs*
+- Exercise : Push-Up * 10 && Squats * 50
 ## Secondary:
 - Final : *IR* ---> 8:00 ~ 10:00
+- Exercise : Push-Up * 10 && Squats * 50
 # D4 - 7.2
 - Get Up : 7:30 a.m.
 - Sleep : 12:00 a.m.
