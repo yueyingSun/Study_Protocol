@@ -1,6 +1,12 @@
 # **Supervisor : Jacky**
 
 # D7 - 7.5
+- Get Up : 7:30 a.m.
+- Sleep : 12:00 a.m.
+- Paper : *Unmanned Aerial Vehicle With Underlaid Device-to-Device Communications: Performance and Tradeoffs*
+- Exercise : Push-Up * 10 && Squats * 50
+## Secondary:
+- Exercise : Push-Up * 10 && Squats * 50
 # D6 - 7.4 
 ## Primary：
 - Get Up : 7:30 a.m.
