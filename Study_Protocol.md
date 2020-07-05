@@ -114,9 +114,9 @@
     * 熔断机制：没达成次要目标将会接受惩罚。连续三次没达成次要目标，将启动阀值。
     * 监督：发消息
     * 惩罚：
-* Afternoon - Lunch (1:30 am - 5:00 am)
+* Afternoon - Lunch (1:30 pm - 5:00 pm)
 The same as above
-* Night - Bedtime (7:00 am - 12:00 am)
+* Night - Bedtime (7:00 pm - 12:00 am)
 The same as above
 
 ### 3. 阈值（特殊情况下启动，避免有些时候太懒了）
