@@ -13,14 +13,15 @@
 - Vocabulary 2 sections
 #### Secondary:
 - Vocabulary 1 section
-## Afternoon - Lunch (1:30 am - 5:00 am)
+## Afternoon - Lunch (1:30 pm - 5:00 pm)
 #### Primary：
 - Lisening 2 sections
 #### Secondary:
 - Lisening 1 section
-## Night - Bedtime (7:00 am - 12:00 am)
+## Night - Bedtime (7:00 pm - 12:00 pm)
 #### Primary：
 - Sleep : 12:00 a.m.
 - Reading 2 sections
+- Exercise: 50 crunches
 #### Secondary:
 - Reading 1 section
