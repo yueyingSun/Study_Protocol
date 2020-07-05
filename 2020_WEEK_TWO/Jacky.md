@@ -1,6 +1,16 @@
 # **Supervisor : Ethel**
 
 # D7 - 7.5
+## Primary：
+- Get Up : 7:30 a.m.
+- Sleep : 12:00 a.m.
+- tofel reading : 1 section
+- tofel lisening : 1 section
+- tofel vocabulary  : 2 section
+## Secondary:
+- tofel reading : 1 section
+- tofel lisening : 0 section
+- tofel vocabulary  : 1 section
 # D6 - 7.4 
 ## Primary：
 - Get Up : 7:30 a.m.
