@@ -13,7 +13,7 @@
 - Vocabulary 2 sections
 #### Secondary:
 - Vocabulary 1 section
-## Afternoon - Lunch (1:30 pm - 5:00 pm)
+## Afternoon - Dinner (1:30 pm - 5:00 pm)
 #### Primary：
 - Lisening 2 sections
 #### Secondary:
