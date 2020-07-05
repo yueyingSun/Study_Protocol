@@ -7,14 +7,20 @@
 # D3 - 7.8
 # D2 - 7.7
 # D1 - 7.6
-## Primary：
+## Morning - Noon(8:00 am - 12:00 am)
+#### Primary：
 - Get Up : 7:30 a.m.
-- Sleep : 12:00 a.m.
-- Duration : 8 Hours
-- Lisening 2 sections
-- Reading 2 sections
 - Vocabulary 2 sections
-## Secondary:
-- Lisening 1 section
-- Reading 1 section
+#### Secondary:
 - Vocabulary 1 section
+## Afternoon - Lunch (1:30 am - 5:00 am)
+#### Primary：
+- Lisening 2 sections
+#### Secondary:
+- Lisening 1 section
+## Night - Bedtime (7:00 am - 12:00 am)
+#### Primary：
+- Sleep : 12:00 a.m.
+- Reading 2 sections
+#### Secondary:
+- Reading 1 section
