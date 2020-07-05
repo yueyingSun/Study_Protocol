@@ -1,6 +1,7 @@
 # **Supervisor : Jacky**
 
 # D7 - 7.5
+## Primary：
 - Get Up : 7:30 a.m.
 - Sleep : 12:00 a.m.
 - Paper : *Unmanned Aerial Vehicle With Underlaid Device-to-Device Communications: Performance and Tradeoffs*
