@@ -12,7 +12,6 @@
 ## Afternoon - Dinner (1:30 pm - 5:00 pm)
 #### Primary：
 - Lisening 3 sections
-- Lab task
 #### Secondary:
 - Lisening 1 section
 ## Night - Bedtime (7:00 pm - 12:00 pm)
