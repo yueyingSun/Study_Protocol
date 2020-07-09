@@ -5,10 +5,10 @@
 # D5 - 7.10
 #### Primary：
 - Get Up : 7:30 a.m.
-- Vocabulary ： 150 words
+- Vocabulary ： 100 words
 - Paper : *'...in Combined UAV and D2D-Based Networks'* ---> finish 
 #### Secondary:
-- Vocabulary ： 150 words
+- Vocabulary ： 100 words
 ## Afternoon - Dinner (2:00 pm - 5:00 pm)
 #### Primary：
 - *'anti-coordination game...'*
