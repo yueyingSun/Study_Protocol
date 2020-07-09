@@ -3,6 +3,22 @@
 # D7 - 7.12
 # D6 - 7.11
 # D5 - 7.10
+#### Primary：
+- Get Up : 7:30 a.m.
+- Vocabulary ： 150 words
+- Paper : *'...in Combined UAV and D2D-Based Networks'* ---> finish 
+#### Secondary:
+- Vocabulary ： 150 words
+## Afternoon - Dinner (2:00 pm - 5:00 pm)
+#### Primary：
+- *'anti-coordination game...'*
+## Night - Bedtime (8:00 pm - 10:00 pm)
+#### Primary：
+- Sleep : 12:00 a.m.
+- *'on the partially overlapped channel ... '* ---> I
+- Exercise: Push-Up * 10 && Squats * 50 & 10 crunches
+#### Secondary:
+- Exercise: Push-Up * 10 && Squats * 50 & 10 crunches
 # D4 - 7.9
 ## Morning - Noon(8:00 am - 11:00 am)
 #### Primary：
