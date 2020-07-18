@@ -1,7 +1,23 @@
 #  **Supervisor : Ethel**
 
 # D7 - 7.19
-
+## Morning - Noon(8:00 am - 12:00 am)
+#### Primary：
+- Get Up : 7:30 a.m.
+- Lab
+#### Secondary:
+- Lab
+## Afternoon - Dinner (1:30 pm - 5:00 pm)
+#### Primary：
+- Lisening one test exam
+#### Secondary:
+- Sleep
+## Night - Bedtime (7:00 pm - 12:00 pm)
+#### Primary：
+- Sleep : 12:00 a.m.
+- Reading one test exam
+### Secondary:
+- Reading 1 sections
 
 
 # D6 - 7.18
