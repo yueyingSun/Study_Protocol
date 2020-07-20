@@ -3,7 +3,6 @@
 # D2 - 7.21
 ## Morning - Noon(8:00 am - 11:00 am)
 #### Primary：
-- Get Up : 5:30 a.m.
 - Vocabulary ： 100 words
 - Paper ： Read
 #### Secondary:
